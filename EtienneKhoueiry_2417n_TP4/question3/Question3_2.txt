@@ -1,0 +1,1 @@
+On peut ajouter le patron Strategy par exemple pour que chaque operation a sa classe a elle et relier les strategy avec le MVC de la partie precedente cela va organiser le controlleur pour que chaque operation a sa classe strategy seule 
